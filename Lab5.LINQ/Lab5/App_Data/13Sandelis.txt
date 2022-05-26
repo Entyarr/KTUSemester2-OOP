@@ -1,0 +1,8 @@
+﻿13
+Geforce GT 1030; 6; 115.64
+Radeon RX 6900; 1; 1260.43
+GeForce GTX 1080Ti; 9; 316.03
+DDR4 Kingston 64GB; 3; 314.10
+Core I3-10100F; 1; 71.67
+Ryzen 7 5800X; 9; 513.16
+Ryzen 5 3600; 7; 248.61

@@ -1,0 +1,8 @@
+﻿11
+DDR4 Kingston 64GB; 3; 320.50
+Ryzen 5 1600; 7; 118.99
+DDR4 Corsair 16GB; 2; 160.45
+Radeon RX 6900; 1; 1245.12
+GeForce GTX 1080Ti; 9; 330.16
+GeForce GTX 1060; 3; 271.18
+Geforce RTX 3060; 1; 590.45

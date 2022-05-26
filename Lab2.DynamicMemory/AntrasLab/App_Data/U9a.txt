@@ -1,0 +1,6 @@
+﻿Place 12;Juozaitis;3700000000;1;6;ABCDEF;15;AB12
+Somewhere 43;Petraitis;3700000002;6;2;WXYZAB;20;BB88
+Thatplace 5;Kestutaitis;3700000006;11;2;POMOMX;9;AB12
+Fifthplace 12;Radvilaite;3705423489;6;6;LETSGO;16;BB88
+Placeyplace 2;Giedrutis;3708542264;2;9;WHYYYY;24;AB12
+Richmond 7;Turtingas;3700000002;1;12;RICHIE;38;DEAN

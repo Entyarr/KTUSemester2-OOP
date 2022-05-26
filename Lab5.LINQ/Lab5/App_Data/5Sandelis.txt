@@ -1,0 +1,8 @@
+﻿5
+Ryzen 5 3600; 2; 199.99
+GeForce GTX 1060; 7; 300.01
+Radeon RX 6900; 1; 1199.99
+GeForce GTX 1080Ti; 3; 350.50
+Ryzen 5 1600; 20; 89.99
+Radeon RX 6900XT; 10; 1613.99
+GeForce RTX 3060; 5; 600.00

@@ -1,0 +1,8 @@
+﻿7
+Geforce GT 1030; 6; 135.74
+Radeon RX 6900; 1; 1350.99
+Ryzen 7 5700X; 6; 400.48
+Ryzen 5 3600; 7; 267.15
+GeForce GTX 1060; 3; 299.57
+Core I3-10100F; 1; 89.89
+GeForce GTX 1060; 2; 285.23

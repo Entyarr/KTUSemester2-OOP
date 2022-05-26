@@ -1,0 +1,8 @@
+﻿1
+GeForce RTX 3060; 5; 600.00
+GeForce GTX 1080Ti; 9; 320.50
+GeForce GTX 1060; 3; 288.99
+Radeon RX 6900XT; 4; 1523.99
+Geforce GT 1030; 6; 105.74
+Radeon RX 6900; 1; 1200.99
+Ryzen 5 1600; 3; 99.99

@@ -1,0 +1,14 @@
+﻿body {
+    background-color: lightblue;
+}
+
+table {
+    font-family: 'Comic Sans MS';
+    font-style: italic;
+    background-color: yellowgreen;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
